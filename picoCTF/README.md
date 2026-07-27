@@ -1,6 +1,33 @@
-# 🚩 picoCTF - Challenge Solutions & Repository Structure
+# 🚩 picoCTF - Challenge Writeups & Solutions
 
-Welcome! This repository provides an organized structure for storing writeups, exploit scripts, notes, and resources for all **picoCTF** categories.
+Welcome! This repository tracks my **picoCTF** writeups, exploit scripts, and notes.
+
+---
+
+## 📊 Progress Summary
+
+> **Repository Owner:** bcrow10-max  
+> **Writeups Documented:** 2  
+
+### 🏆 Category Overview
+
+| Category | Solved Count | Status |
+| :--- | :---: | :---: |
+| 🛠️ **01 - General Skills** | 2 | 🟢 Active |
+| 🔐 **02 - Cryptography** | 0 | ⚪ Pending |
+| 🌐 **03 - Web Exploitation** | 0 | ⚪ Pending |
+| 🔄 **04 - Reverse Engineering** | 0 | ⚪ Pending |
+| 🔍 **05 - Forensics** | 0 | ⚪ Pending |
+| 💥 **06 - Binary Exploitation** | 0 | ⚪ Pending |
+
+---
+
+## 📝 Challenge Writeups Log
+
+| # | Challenge Name | Category | Difficulty | Platform | Writeup Link |
+| :-: | :--- | :--- | :-: | :-: | :-: |
+| 1 | **Undo** | General Skills | Easy | picoCTF | [Read Writeup](./01-General_Skills/Undo/README.md) |
+| 2 | **MY GIT** | General Skills | Easy | picoCTF | [Read Writeup](./01-General_Skills/MY_GIT/README.md) |
 
 ---
 
@@ -14,28 +41,3 @@ picoCTF/
 ├── 04-Reverse_Engineering/  # Assembly, disassembling, decompiling (C/C++, Java, Android APK, Python bytecodes)
 ├── 05-Forensics/            # Image analysis, Steganography, PCAP analysis, Memory dumps, File carving
 └── 06-Binary_Exploitation/  # Memory corruption, Buffer Overflow, ROP chains, Format String bugs (pwntools)
-```
-
----
-
-## 📌 Standard Challenge Workflow
-
-For every new challenge solved, create a dedicated folder inside the corresponding category directory:
-
-```bash
-# Example for a Web Exploitation challenge:
-mkdir 03-Web_Exploitation/Challenge_Name
-```
-
-Inside the folder, include:
-1. `README.md`: Challenge description, difficulty, hints, and step-by-step solution writeup.
-2. `solve.py` / `exploit.py`: Python automation or exploit script used to retrieve the flag.
-3. Challenge attachments & artifacts.
-
----
-
-## 💡 Quick picoCTF Tips
-
-- Standard flag format: `picoCTF{...}`.
-- Primary CLI tools: `grep`, `strings`, `nc` (netcat), `curl`, `python3`.
-- Primary Python library for CTFs: `pwntools` (`pip install pwntools`).
