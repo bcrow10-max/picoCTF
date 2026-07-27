@@ -1,33 +1,34 @@
-# 🚩 picoCTF - Challenge Writeups & Solutions
+# 🚩 picoCTF & CyLab Academy - Challenge Writeups & Solutions
 
-Welcome! This repository tracks my **picoCTF** writeups, exploit scripts, and notes.
+Welcome! This repository tracks my **picoCTF** and **CyLab Security Academy** writeups, learning paths, exploit scripts, and notes.
 
 ---
 
-## 📊 Progress Summary
+## 📊 My Profile Progress & Stats Dashboard
 
-> **Repository Owner:** bcrow10-max  
-> **Writeups Documented:** 2  
+> **Repository Owner:** bcrow10-max (@xASODx)  
+> **Total Solved Modules / Challenges:** **28** 🏆  
 
-### 🏆 Category Overview
+### 🏆 Category Progress Overview
 
 | Category | Solved Count | Status |
 | :--- | :---: | :---: |
-| 🛠️ **01 - General Skills** | 2 | 🟢 Active |
-| 🔐 **02 - Cryptography** | 0 | ⚪ Pending |
-| 🌐 **03 - Web Exploitation** | 0 | ⚪ Pending |
-| 🔄 **04 - Reverse Engineering** | 0 | ⚪ Pending |
-| 🔍 **05 - Forensics** | 0 | ⚪ Pending |
-| 💥 **06 - Binary Exploitation** | 0 | ⚪ Pending |
+| 🛠️ **01 - General Skills** | 15 | 🟢 Active |
+| 🔐 **02 - Cryptography** | 4 | 🟢 Active |
+| 🌐 **03 - Web Exploitation** | 3 | 🟢 Active |
+| 🔍 **05 - Forensics** | 3 | 🟢 Active |
+| 🔄 **04 - Reverse Engineering** | 2 | 🟢 Active |
+| 💥 **06 - Binary Exploitation** | 1 | 🟢 Active |
 
 ---
 
-## 📝 Challenge Writeups Log
+## 📝 Solved Challenges Log
 
-| # | Challenge Name | Category | Difficulty | Platform | Writeup Link |
+| # | Challenge Name / Track | Category | Difficulty | Platform | Writeup Link |
 | :-: | :--- | :--- | :-: | :-: | :-: |
-| 1 | **Undo** | General Skills | Easy | picoCTF | [Read Writeup](./01-General_Skills/Undo/README.md) |
-| 2 | **MY GIT** | General Skills | Easy | picoCTF | [Read Writeup](./01-General_Skills/MY_GIT/README.md) |
+| 1 | **The Beginner's Guide to the Challenge Library** (28 Modules) | General Skills | Easy | CyLab / picoCTF | [Read Guide](./01-General_Skills/The_Beginners_Guide_to_the_Challenge_Library/README.md) |
+| 2 | **Undo** | General Skills | Easy | picoCTF | [Read Writeup](./01-General_Skills/Undo/README.md) |
+| 3 | **MY GIT** | General Skills | Easy | picoCTF | [Read Writeup](./01-General_Skills/MY_GIT/README.md) |
 
 ---
 
